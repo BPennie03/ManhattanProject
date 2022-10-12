@@ -28,5 +28,5 @@ const createWindow = () => {
     },
   });
 
-  win.loadFile("index.html"); // loads index.html file
+  win.loadFile("src/index.html"); // loads index.html file
 };
