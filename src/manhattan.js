@@ -1,21 +1,3 @@
-/*
-document.addEventListener("DOMContentLoaded", function () {
-  // calls main on load
-  main();
-});
-
-const main = () => {
-  // gets called at the start of the program
-  createButtons();
-};
-
-const createButtons = () => {
-  console.log("some bullshit");
-  const btn = document.createElement("button");
-  btn.innerHTML = "HELLO BUTTON";
-  document.body.appendChild(btn);
-};
-*/
 const $ = require("jquery");
 
 $(() => {
